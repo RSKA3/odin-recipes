@@ -1,0 +1,57 @@
+body {
+    background-color: blanchedalmond ;
+}
+
+.all {
+    width: 300px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: lightslategray;
+}
+
+h1,
+h2 {
+    font-family: Garamond, sans-serif;
+}
+
+li {
+    font-family: "Courier New", sans-serif;
+    font-size: 20px;
+
+}
+
+.return {
+    font-family: "Courier New", sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+a, 
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color: grey;
+}
+
+.recipes li{
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+
+img {
+    border: 5px solid black;
+}
+
+.images {
+    width: 950px;
+    margin: auto auto;
+}
